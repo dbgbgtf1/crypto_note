@@ -4,7 +4,7 @@
 ![](./rsa/rsa.png)
 
 3. euler (n) = euler (p) * euler (q)
-然后因为p,q质数, 所以euler (p) = p - 1, euler (q) = q - 1
+然后因为p, q质数, 所以euler (p) = p - 1, euler (q) = q - 1
 
 5. 计算一个d, 使得(d * e) mod euler(n) = 1
 
